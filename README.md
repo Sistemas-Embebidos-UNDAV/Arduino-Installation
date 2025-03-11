@@ -77,3 +77,10 @@ Luego agrega la línea correspondiente:
 Guarda el archivo (`Ctrl + X`, luego `Y` y `Enter`) y recarga las reglas:
 ```bash
 sudo udevadm control --reload-rules
+```
+## Referencias
+
+- https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
+- https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/
+- https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-downloading-and-installing/
+
